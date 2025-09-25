@@ -1,24 +1,28 @@
 # Real-Estate-Project
-This project presents a digital marketing campaign for a newly established real estate company.
+
+This project presents a digital marketing campaign for a newly established real estate company.  
 The main objective is to build brand awareness and highlight the company’s professional brokers and unique customer services that help clients to:
-Invest in real estate opportunities.
-Buy properties with confidence.
-Sell properties effectively in targeted locations.
 
-The campaign focuses on:
-Market analysis to understand client needs.
-Clear value proposition to differentiate the company from competitors.
-Digital marketing strategies across social media to increase trust and engagement.
+- Invest in real estate opportunities.  
+- Buy properties with confidence.  
+- Sell properties effectively in targeted locations.  
 
-Team Roles & Responsibilities
+## Campaign Focus
 
-Omar Elsayed  – Team Leader & Founder
-team management, marketing strategy and funnels, marketing messages, campaign management, guidance, adjustments, and content creation.
+- Market analysis to understand client needs.  
+- Clear value proposition to differentiate the company from competitors.  
+- Digital marketing strategies across social media to increase trust and engagement.  
 
-Mahmoud Mohammed – Social Media Manager & designer
-Manages social media marketing, campaign strategies, visual designs and content management.
+## Team Roles & Responsibilities
 
-Mohammed Taha – content writer
-Writes content, scripts for posts, and some videos and reels
-Moataz Mohammed – video editor 
-Handles video and reel editing to ensure marketing messages are delivered effectively.
+**Omar Elsayed – Team Leader & Founder**  
+Team management, marketing strategy and funnels, marketing messages, campaign management, guidance, adjustments, and content creation.  
+
+**Mahmoud Mohammed – Social Media Manager & Designer**  
+Manages social media marketing, campaign strategies, visual designs, and content management.  
+
+**Mohammed Taha – Content Writer**  
+Writes content, scripts for posts, and some videos and reels.  
+
+**Moataz Mohammed – Video Editor**  
+Handles video and reel editing to ensure marketing messages are delivered effectively.  
