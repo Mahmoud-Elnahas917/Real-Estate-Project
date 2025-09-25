@@ -9,3 +9,16 @@ The campaign focuses on:
 Market analysis to understand client needs.
 Clear value proposition to differentiate the company from competitors.
 Digital marketing strategies across social media to increase trust and engagement.
+
+Team Roles & Responsibilities
+
+Omar Elsayed  – Team Leader & Founder
+team management, marketing strategy and funnels, marketing messages, campaign management, guidance, adjustments, and content creation.
+
+Mahmoud Mohammed – Social Media Manager & designer
+Manages social media marketing, campaign strategies, visual designs and content management.
+
+Mohammed Taha – content writer
+Writes content, scripts for posts, and some videos and reels
+Moataz Mohammed – video editor 
+Handles video and reel editing to ensure marketing messages are delivered effectively.
