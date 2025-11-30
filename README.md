@@ -2,6 +2,7 @@
 
 A digital awareness and marketing project designed to introduce a newly established real estate company, highlight its brokerage services, and build trust with potential clients through strategic and visual communication.
 ---
+
 - 💡 Project Idea
 
 This academic project aims to simplify the real estate decision-making process for clients by presenting the company’s expertise, credibility, and customer-focused services.
@@ -24,7 +25,7 @@ The campaign helps clients:
 
 This project transforms essential real estate concepts into simple, engaging visuals and content—empowering clients to make informed property decisions.
 ---
- 👥 Team Members
+- 👥 Team Members
 Omar Elsayed – Team Leader & Founder
 
 * Primary: Team coordination, marketing strategy, message development, and campaign direction.
